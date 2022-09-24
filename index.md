@@ -1,4 +1,9 @@
-## Welcome to Justin Aebi's Github Page
+# Thermostat Prototype
+### Created by: Justin Aebi
+
+## What is it?
+
+Hello and welcome to my github page for my thermostat prototype. For a little context, this page is dedicated to an embedded c programmed thermostat prototype concept that I have been working on to demonstrate my skill in working with embedded c and desiging software. The thermostat utilizes a TI  SimpleLink Wi-Fi CC3220S wireless microcontroller LaunchPad development kit to recreate a functional in-home thermostat. The software that I developed works with this device to allow it to read the current temperature of the room and will then turn on an LED to indicate taht the heat is on when the room temperature falls below the set temperature as if to imitate the homes heating turning on. It also uploads the temperature data and elapsed time since the device was started every one second to imitate a read out of the temperature.
 
 You can use the [editor on GitHub](https://github.com/MishievousCloud/MischievousCloud.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
