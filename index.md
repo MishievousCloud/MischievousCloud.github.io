@@ -36,7 +36,7 @@ This is a demonstration of an embedded c thermostat prototype concept that I hav
   
 ### -Code Snippets
   ```
-	[Insertion Sort]()
+	[Insertion Sort](Vector Sorting Snapshot.png)
   ```
   
 ## 3. Android Weight Tracking Application <a id="App"><a>
