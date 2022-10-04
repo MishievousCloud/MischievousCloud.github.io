@@ -5,17 +5,26 @@
 
 Main Sections:
 
-1. Thermostat Prototype
-2. Vector Sorting Program
-3. Android Weight Tracking Application
-4. Code Review
-<a href="#PSA">5. Professional Self-Assessment<a>
+1. <a href="Thermostat">Thermostat Prototype<a>
+2. <a href="VS">Vector Sorting Program<a>
+3. <a href="App">Android Weight Tracking Application<a>
+4. <a href="Code Review">Code Review<a>
+5. <a href="#PSA">Professional Self-Assessment<a>
+  
+## <a id="Thermostat">1. Thermostat Prototype<a>
 
 
 ## What is it?
 
 Hello and welcome to my github page for my thermostat prototype. For a little context, this page is dedicated to an embedded c programmed thermostat prototype concept that I have been working on to demonstrate my skill in working with embedded c and desiging software. The thermostat utilizes a TI  SimpleLink Wi-Fi CC3220S wireless microcontroller LaunchPad development kit to recreate a functional in-home thermostat. The software that I developed works with this device to allow it to read the current temperature of the room and will then turn on an LED to indicate taht the heat is on when the room temperature falls below the set temperature as if to imitate the homes heating turning on. It also uploads the temperature data and elapsed time since the device was started every one second to imitate a read out of the temperature.
 
+## <a id="VS">2. Vector Sorting Program<a>
+  
+## <a id="App">3. Android Weight Tracking Application<a>
+  
+## <a id="Code Review">4. Code Review<a>
+  
+## <a id="PSA">Professional Self-Assessment<a>
 You can use the [editor on GitHub](https://github.com/MishievousCloud/MischievousCloud.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -42,7 +51,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-<a id="PSA">##5. Professional Self-Assessment<a>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
