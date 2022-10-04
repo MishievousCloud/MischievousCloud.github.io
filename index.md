@@ -2,14 +2,14 @@
 ### Original works and enhancements created by: Justin Aebi
 
 ## Table of Contents
-```
+
 Main Sections:
 
 1. Thermostat Prototype
 2. Vector Sorting Program
 3. Android Weight Tracking Application
 4. Code Review
-<a href="#Professional Self-Assessment">5. Professional Self-Assessment<a>
+<a href="#PSA">5. Professional Self-Assessment<a>
 
 
 ## What is it?
@@ -42,7 +42,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-##<a id="Professional Self-Assessment">5. Professional Self-Assessment<a>
+<a id="PSA">##5. Professional Self-Assessment<a>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
