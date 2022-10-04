@@ -24,7 +24,7 @@ Hello and welcome to my github page for my thermostat prototype. For a little co
   
 ## <a id="Code Review">4. Code Review<a>
   
-## <a id="PSA">Professional Self-Assessment<a>
+## <a id="PSA">5. Professional Self-Assessment<a>
 You can use the [editor on GitHub](https://github.com/MishievousCloud/MischievousCloud.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
