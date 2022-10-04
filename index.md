@@ -35,7 +35,8 @@ This is a demonstration of an embedded c thermostat prototype concept that I hav
 ## -Reflection.
   
 ### -Code Snippets
-	![Vector Sorting Snapshot.png](https://github.com/MishievousCloud/MischievousCloud.github.io/blob/gh-pages/Vector%20Sorting%20Snapshot.png)
+	![Vector Sorting Snapshot](https://github.com/MishievousCloud/MischievousCloud.github.io/blob/gh-pages/Vector%20Sorting%20Snapshot.png)
+	
   
 ## 3. Android Weight Tracking Application <a id="App"><a>
   <sub>Databases example</sub>
@@ -52,7 +53,6 @@ This is a demonstration of an embedded c thermostat prototype concept that I hav
   
   <p align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pC1tkp_Lheo" title="Justin Aebi Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <sub>[Code Review link](https://youtu.be/pC1tkp_Lheo)</sub>
   </p>
   
 ## 5. Professional Self-Assessment <a id="PSA"><a>
