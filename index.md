@@ -12,7 +12,7 @@
   
 ## What is it?
   
-This is a demonstration of an embedded c thermostat prototype concept that I have been working on to demonstrate my skill in working with embedded c and designing software. The thermostat utilizes a TI SimpleLink Wi-Fi CC3220S wireless microcontroller LaunchPad development kit to recreate a functional in-home thermostat. The software that I developed works with this device to allow it to read the current temperature of the room and will then turn on an LED to indicate that the heat is on when the room temperature falls below the set temperature as if to imitate the homes heating turning on. It then uploads the temperature data and elapsed time since the device was started every 1 second to imitate a read out of the temperature on a physical thermostat. This artifact was first created in April of 2022 during my CS-350 Emerging Systems Architectures and Technologies course, and later improved during my CS-499 Capstone course in September of 2022.
+This is a demonstration of a thermostat prototype concept that I have been working on to demonstrate my skill in working with Embedded C and designing software. The thermostat utilizes a TI SimpleLink Wi-Fi CC3220S wireless microcontroller LaunchPad development kit to recreate a functional in-home thermostat. The software that I developed works with this device to allow it to read the current temperature of the room and will then turn on an LED to indicate that the heat is on when the room temperature falls below the set temperature as if to imitate the homes heating turning on. It then uploads the temperature data and elapsed time since the device was started every 1 second to imitate a read out of the temperature on a physical thermostat. This artifact was first created in April of 2022 during my CS-350 Emerging Systems Architectures and Technologies course, and later improved during my CS-499 Capstone course in September of 2022.
   
 ## Why did I choose to represent this item?
   
@@ -28,7 +28,14 @@ The choice of this artifact as a project to enhance was a great selection to sta
 	
 When it came to the default cases that needed to be included for each of my state machines, I implemented some of the code, did some initial tests and found that it was not functioning how it should have. It was not stopping the program when it should have, but instead just kept outputting the same failure message. I knew that this meant the timer was still running. From this I learned and experienced exactly why it is so important to not only write the code, but consistently perform tests on the code as it is being developed. This is a very valuable lesson that has been taught by my courses, and for good reason. Though there were some minor setbacks, the challenges that were presented, and the ways in which I overcame them is one of the reasons why writing code can be so enjoyable for me. Overall, I think that this was a great project to learn from and one that I am happy to showcase.
   
-### Demonstration video
+### Enhancements Made
+```
+1. Created set temperature upper and lower input limitations.
+2. Included default cases to prevent device from continuing to malfunction upon failure.
+3. Reworked state machine timings for temperature readings, and input detection.
+4. Reworked comments to be more concise and explanatory.
+```
+	
   <sub>[Thermostat Prototype demonstration video link](https://youtube.com/shorts/xkgiWN-o8l4)</sub>
 
 ## 2. Vector Sorting Program <a id="VS"><a>
@@ -64,17 +71,9 @@ When it came to the default cases that needed to be included for each of my stat
   
   Ignore everything below for now.
   
+	
+	
 You can use the [editor on GitHub](https://github.com/MishievousCloud/MischievousCloud.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-```markdown
-Syntax highlighted code block
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
