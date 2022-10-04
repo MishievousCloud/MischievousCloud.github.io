@@ -30,10 +30,10 @@ When it came to the default cases that needed to be included for each of my stat
   
 ### Enhancements Made
 ```
-1. Created set temperature upper and lower input limitations.
-2. Included default cases to prevent device from continuing to malfunction upon failure.
-3. Reworked state machine timings for temperature readings, and input detection.
-4. Reworked comments to be more concise and explanatory.
+- Created set temperature upper and lower input limitations.
+- Included default cases to prevent device from continuing to malfunction upon failure.
+- Reworked state machine timings for temperature readings, and input detection.
+- Reworked comments to be more concise and explanatory.
 ```
 	
   <sub>[Thermostat Prototype demonstration video link](https://youtube.com/shorts/xkgiWN-o8l4)</sub>
