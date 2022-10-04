@@ -1,5 +1,5 @@
 # GitHub collected work enhancements
-### Original works and enhancements created by: Justin Aebi
+<sub>Original works and enhancements created by: Justin Aebi</sub>
 
 ## Table of Contents
 
@@ -11,20 +11,25 @@ Main Sections:
 4. <a href="#Code Review">Code Review<a>
 5. <a href="#PSA">Professional Self-Assessment<a>
   
-## <a id="Thermostat">1. Thermostat Prototype<a>
+## 1. Thermostat Prototype <a id="Thermostat"><a>
+  <sub>Software Design and Engineering</sub>
 
-
-## What is it?
+## -What is it?
 
 Hello and welcome to my github page for my thermostat prototype. For a little context, this page is dedicated to an embedded c programmed thermostat prototype concept that I have been working on to demonstrate my skill in working with embedded c and desiging software. The thermostat utilizes a TI  SimpleLink Wi-Fi CC3220S wireless microcontroller LaunchPad development kit to recreate a functional in-home thermostat. The software that I developed works with this device to allow it to read the current temperature of the room and will then turn on an LED to indicate taht the heat is on when the room temperature falls below the set temperature as if to imitate the homes heating turning on. It also uploads the temperature data and elapsed time since the device was started every one second to imitate a read out of the temperature.
 
-## <a id="VS"><a>2. Vector Sorting Program
+## 2. Vector Sorting Program <a id="VS"><a>
+  <sub>Algorithms and Data Structures</sub>
   
-## <a id="App"><a>3. Android Weight Tracking Application
+## 3. Android Weight Tracking Application <a id="App"><a>
+  <sub>Databases</sub>
   
-## <a id="Code Review"><a>4. Code Review
+## 4. Code Review <a id="Code Review"><a>
+  <sub>[Code Review Video Link on YouTube](https://youtu.be/pC1tkp_Lheo)</sub>
   
-## <a id="PSA"><a>5. Professional Self-Assessment
+## 5. Professional Self-Assessment <a id="PSA"><a>
+  
+  
 You can use the [editor on GitHub](https://github.com/MishievousCloud/MischievousCloud.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
