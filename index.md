@@ -35,7 +35,7 @@ This is a demonstration of an embedded c thermostat prototype concept that I hav
 ## -Reflection.
   
 ### -Code Snippets
-	[Vector Sorting Snapshot.png](https://github.com/MishievousCloud/MischievousCloud.github.io/blob/gh-pages/Vector%20Sorting%20Snapshot.png)
+	![Vector Sorting Snapshot.png](https://github.com/MishievousCloud/MischievousCloud.github.io/blob/gh-pages/Vector%20Sorting%20Snapshot.png)
   
 ## 3. Android Weight Tracking Application <a id="App"><a>
   <sub>Databases example</sub>
