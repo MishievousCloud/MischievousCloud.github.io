@@ -14,27 +14,27 @@ Main Sections:
 ## 1. Thermostat Prototype <a id="Thermostat"><a>
   <sub>Software Design and Engineering example</sub>
 
-  ## -What is it?
+## What is it?
 
 This is a demonstration of an embedded c thermostat prototype concept that I have been working on to demonstrate my skill in working with embedded c and designing software. The thermostat utilizes a TI SimpleLink Wi-Fi CC3220S wireless microcontroller LaunchPad development kit to recreate a functional in-home thermostat. The software that I developed works with this device to allow it to read the current temperature of the room and will then turn on an LED to indicate taht the heat is on when the room temperature falls below the set temperature as if to imitate the homes heating turning on. It then uploads the temperature data and elapsed time since the device was started every one second to imitate a read out of the temperature on a physical thermostat.
   
-  ## -Why did I choose to represent this item?
+## Why did I choose to represent this item?
   
-  ## -Reflection.
+  ## Reflection.
   
-    ### -Demonstration video
+### Demonstration video
   <sub>[Thermostat Prototype Demonstration video link](https://youtube.com/shorts/xkgiWN-o8l4)</sub>
 
 ## 2. Vector Sorting Program <a id="VS"><a>
   <sub>Algorithms and Data Structures example</sub>
   
-  ## -What is it?
+## -What is it?
   
-  ## -Why did I choose to represent this item?
+## -Why did I choose to represent this item?
   
-  ## -Reflection.
+## -Reflection.
   
-    ### -Code Snippets
+### -Code Snippets
   ```C++
   void insertionSort(vector<Bid>& bids) {
 	// iterate through the length of bids
@@ -58,13 +58,13 @@ This is a demonstration of an embedded c thermostat prototype concept that I hav
 ## 3. Android Weight Tracking Application <a id="App"><a>
   <sub>Databases example</sub>
   
-  ## -What is it?
+## What is it?
   
-  ## -Why did I choose to represent this item?
+## Why did I choose to represent this item?
   
-  ## -Reflection.
+## Reflection.
   
-    ### -Code Snippets/Screenshots
+### Code Snippets/Screenshots
   
 ## 4. Code Review <a id="Code Review"><a>
   
