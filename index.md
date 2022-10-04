@@ -12,20 +12,44 @@ Main Sections:
 5. <a href="#PSA">Professional Self-Assessment<a>
   
 ## 1. Thermostat Prototype <a id="Thermostat"><a>
-  <sub>Software Design and Engineering</sub>
+  <sub>Software Design and Engineering example</sub>
 
-## -What is it?
+  ## - What is it?
 
-Hello and welcome to my github page for my thermostat prototype. For a little context, this page is dedicated to an embedded c programmed thermostat prototype concept that I have been working on to demonstrate my skill in working with embedded c and desiging software. The thermostat utilizes a TI  SimpleLink Wi-Fi CC3220S wireless microcontroller LaunchPad development kit to recreate a functional in-home thermostat. The software that I developed works with this device to allow it to read the current temperature of the room and will then turn on an LED to indicate taht the heat is on when the room temperature falls below the set temperature as if to imitate the homes heating turning on. It also uploads the temperature data and elapsed time since the device was started every one second to imitate a read out of the temperature.
+This is a demonstration of an embedded c thermostat prototype concept that I have been working on to demonstrate my skill in working with embedded c and designing software. The thermostat utilizes a TI SimpleLink Wi-Fi CC3220S wireless microcontroller LaunchPad development kit to recreate a functional in-home thermostat. The software that I developed works with this device to allow it to read the current temperature of the room and will then turn on an LED to indicate taht the heat is on when the room temperature falls below the set temperature as if to imitate the homes heating turning on. It then uploads the temperature data and elapsed time since the device was started every one second to imitate a read out of the temperature on a physical thermostat.
+  
+  ## - Why did I choose to represent this item?
+  
+  ## - Reflection.
+  
+    ### Demonstration video
+  <video src="[](https://youtube.com/shorts/xkgiWN-o8l4?feature=share)" controls="controls" style="max-width: 730px;">
+</video>
 
 ## 2. Vector Sorting Program <a id="VS"><a>
-  <sub>Algorithms and Data Structures</sub>
+  <sub>Algorithms and Data Structures example</sub>
+  
+  ## - What is it?
+  
+  ## - Why did I choose to represent this item?
+  
+  ## - Reflection.
   
 ## 3. Android Weight Tracking Application <a id="App"><a>
-  <sub>Databases</sub>
+  <sub>Databases example</sub>
+  
+  ## - What is it?
+  
+  ## - Why did I choose to represent this item?
+  
+  ## - Reflection.
   
 ## 4. Code Review <a id="Code Review"><a>
-  <sub>[Code Review Video Link on YouTube](https://youtu.be/pC1tkp_Lheo)</sub>
+  <sub>[Code Review Link](https://youtu.be/pC1tkp_Lheo)</sub>
+  
+  <p align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pC1tkp_Lheo" title="Justin Aebi Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
   
 ## 5. Professional Self-Assessment <a id="PSA"><a>
   
