@@ -23,8 +23,9 @@ This is a demonstration of an embedded c thermostat prototype concept that I hav
   ## - Reflection.
   
     ### Demonstration video
-  <video src="[](https://youtube.com/shorts/xkgiWN-o8l4?feature=share)" controls="controls" style="max-width: 730px;">
-</video>
+    <p align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/shorts/xkgiWN-o8l4" title="Justin Aebi Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
 
 ## 2. Vector Sorting Program <a id="VS"><a>
   <sub>Algorithms and Data Structures example</sub>
