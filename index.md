@@ -8,7 +8,7 @@
 4. <a href="#Code Review">Code Review<a>
 5. <a href="#PSA">Professional Self-Assessment<a>
   
-## **1. Thermostat Prototype** <a id="Thermostat"><a>
+## 1. Thermostat Prototype <a id="Thermostat"><a>
   
 ## What is it?
   
@@ -38,7 +38,7 @@ When it came to the default cases that needed to be included for each of my stat
 	
   <sub>[Thermostat Prototype demonstration video link](https://youtube.com/shorts/xkgiWN-o8l4)</sub>
 
-## **2. Vector Sorting Program** <a id="VS"><a>
+## 2. Vector Sorting Program <a id="VS"><a>
   
 ## What is it?
   
@@ -49,7 +49,7 @@ When it came to the default cases that needed to be included for each of my stat
 ### Code Snippets
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/InsertionSort.png" style="display: block; margin: auto;" />
   
-## **3. Android Weight Tracking Application** <a id="App"><a>
+## 3. Android Weight Tracking Application <a id="App"><a>
   
 ## What is it?
   
@@ -59,13 +59,15 @@ When it came to the default cases that needed to be included for each of my stat
   
 ### Code Snippets/Screenshots
   
-## **4. Code Review** <a id="Code Review"><a>
+## 4. Code Review <a id="Code Review"><a>
+	
+	Below is an embedded link to my code review that I performed at the beginning of my journey to enhance each of the artifact choices. If the link does not work for the embedded video [here is a link the video itself on YouTube](https://www.youtube.com/embed/pC1tkp_Lheo).
   
   <p align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pC1tkp_Lheo" title="Justin Aebi Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
   
-## **5. Professional Self-Assessment** <a id="PSA"><a>
+## 5. Professional Self-Assessment <a id="PSA"><a>
   
   Example text placeholder.
   
