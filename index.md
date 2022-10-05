@@ -38,7 +38,7 @@ When it came to the default cases that needed to be included for each of my stat
 	
   <sub>[Thermostat Prototype demonstration video link](https://youtube.com/shorts/xkgiWN-o8l4)</sub>
 
-## 2. Vector Sorting Program <a id="VS"><a>
+## **2. Vector Sorting Program** <a id="VS"><a>
   
 ## What is it?
   
@@ -49,7 +49,7 @@ When it came to the default cases that needed to be included for each of my stat
 ### Code Snippets
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/InsertionSort.png" style="display: block; margin: auto;" />
   
-## 3. Android Weight Tracking Application <a id="App"><a>
+## **3. Android Weight Tracking Application** <a id="App"><a>
   
 ## What is it?
   
@@ -59,13 +59,13 @@ When it came to the default cases that needed to be included for each of my stat
   
 ### Code Snippets/Screenshots
   
-## 4. Code Review <a id="Code Review"><a>
+## **4. Code Review** <a id="Code Review"><a>
   
   <p align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pC1tkp_Lheo" title="Justin Aebi Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
   
-## 5. Professional Self-Assessment <a id="PSA"><a>
+## **5. Professional Self-Assessment** <a id="PSA"><a>
   
   Example text placeholder.
   
