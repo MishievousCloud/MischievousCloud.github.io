@@ -1,6 +1,3 @@
-# Justin Aebi's GitHub Portfolio
-<sub>Original works and enhancements created by: Justin Aebi</sub>
-
 ## Table of Contents
 1. <a href="#Thermostat">Thermostat Prototype<a>
 2. <a href="#VS">Vector Sorting Program<a>
