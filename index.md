@@ -8,7 +8,7 @@
 4. <a href="#Code Review">Code Review<a>
 5. <a href="#PSA">Professional Self-Assessment<a>
   
-## 1. Thermostat Prototype <a id="Thermostat"><a>
+## **1. Thermostat Prototype** <a id="Thermostat"><a>
   
 ## What is it?
   
