@@ -1,4 +1,4 @@
-# GitHub Portfolio Collected Works
+# Justin Aebi's GitHub Portfolio
 <sub>Original works and enhancements created by: Justin Aebi</sub>
 
 ## Table of Contents
