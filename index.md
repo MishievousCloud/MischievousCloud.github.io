@@ -1,4 +1,4 @@
-<!--Justin Aebi's Github ePortfolio-->
+# Justin Aebi's Github ePortfolio
 
 ## Table of Contents
 1. <a href="#Thermostat">Thermostat Prototype<a>
