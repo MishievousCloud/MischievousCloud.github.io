@@ -1,7 +1,5 @@
 # GitHub Portfolio Collected Works
-<sub>Original works and enhancements created by: Justin Aebi</sub>
-<sub><a href="https://www.linkedin.com/in/justin-aebi/">
-LinkedIn Profile<a></sub>
+<sub>Original works and enhancements created by: <a href="https://www.linkedin.com/in/justin-aebi/">Justin Aebi<a></sub>
 
 ## Table of Contents
 1. <a href="#Thermostat">Thermostat Prototype<a>
