@@ -66,7 +66,17 @@ What I learned from this artifact is that when I stumble into a problem in my co
   
 ### Code Snippets
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/InsertionSort.png" style="display: block; margin: auto;" />
-  
+	
+### Enhancements Made
+```
+- Included additional sorting algorithm and menu option.
+- Removed unused code.
+- Included default cases that clear input buffer and prevent endless loop and overflows.
+- Tested inputs for failure points and corrected any identified failure points.
+- Fixed signedness issue in the code to remove errors.
+- Reworked comments to provide more explanation for the code.
+```
+
 ## 5. Android Weight Tracking Application <a id="App"><a>
   
 ## What is it?
