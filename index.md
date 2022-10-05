@@ -61,7 +61,7 @@ When it came to the default cases that needed to be included for each of my stat
   
 ## 4. Code Review <a id="Code Review"><a>
 	
-	Below is an embedded link to my code review that I performed at the beginning of my journey to enhance each of the artifact choices. If the link does not work for the embedded video [here is a link the video itself on YouTube](https://www.youtube.com/embed/pC1tkp_Lheo).
+Below is an embedded link to my code review that I performed at the beginning of my journey to enhance each of the artifact choices. If the link does not work for the embedded video [here is a link the video itself on YouTube](https://www.youtube.com/embed/pC1tkp_Lheo).
   
   <p align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pC1tkp_Lheo" title="Justin Aebi Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
