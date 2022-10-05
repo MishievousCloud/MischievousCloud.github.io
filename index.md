@@ -1,5 +1,5 @@
 # GitHub Portfolio Collected Works
-<sub>Original works and enhancements created by: <a href="https://www.linkedin.com/in/justin-aebi/">Justin Aebi<a></sub>
+<sub>Original works and enhancements created by: Justin Aebi</sub>
 
 ## Table of Contents
 1. <a href="#Thermostat">Thermostat Prototype<a>
@@ -86,3 +86,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Find me on <a href="https://www.linkedin.com/in/justin-aebi/">LinkedIn<a>.
