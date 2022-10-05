@@ -1,14 +1,24 @@
 # Justin Aebi's Github ePortfolio
 
 ## Table of Contents
-1. <a href="#Thermostat">Thermostat Prototype<a>
-2. <a href="#VS">Vector Sorting Program<a>
-3. <a href="#App">Android Weight Tracking Application<a>
-4. <a href="#Code Review">Code Review<a>
-5. <a href="#PSA">Professional Self-Assessment<a>
+1. <a href="#PSA">Professional Self-Assessment<a>
+2. <a href="#Code Review">Code Review<a>
+3. <a href="#Thermostat">Thermostat Prototype<a>
+4. <a href="#VS">Vector Sorting Program<a>
+5. <a href="#App">Android Weight Tracking Application<a>
+
+## 1. Professional Self-Assessment <a id="PSA"><a>
+	
+## 2. Code Review <a id="Code Review"><a>
+	
+Below is the video to my code review that I performed at the beginning of my journey to enhance each of the artifact choices where I provide an in-depth look at each of the programs, how they work, what issues there are, and what enhancements I believe I should make. If the link does not work for the embedded video [here is a link to the video itself on YouTube](https://www.youtube.com/embed/pC1tkp_Lheo).
   
-## 1. Thermostat Prototype <a id="Thermostat"><a>
-  
+  <p align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pC1tkp_Lheo" title="Justin Aebi Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+
+## 3. Thermostat Prototype <a id="Thermostat"><a>  
+
 ## What is it?
   
 This is a demonstration of a thermostat prototype concept that I have been working on to demonstrate my skill in working with Embedded C and designing software. The thermostat utilizes a TI SimpleLink Wi-Fi CC3220S wireless microcontroller LaunchPad development kit to recreate a functional in-home thermostat. The software that I developed works with this device to allow it to read the current temperature of the room and will then turn on an LED to indicate that the heat is on when the room temperature falls below the set temperature as if to imitate the homes heating turning on. It then uploads the temperature data and elapsed time since the device was started every 1 second to imitate a read out of the temperature on a physical thermostat. This artifact was first created in April of 2022 during my CS-350 Emerging Systems Architectures and Technologies course, and later improved during my CS-499 Capstone course in September of 2022.
@@ -34,10 +44,9 @@ When it came to the default cases that needed to be included for each of my stat
 - Reworked state machine timings for temperature readings, and input detection.
 - Reworked comments to be more concise and explanatory.
 ```
-	
-  <sub>[Thermostat Prototype demonstration video link](https://youtube.com/shorts/xkgiWN-o8l4)</sub>
+<sub>[Thermostat Prototype demonstration video link](https://youtube.com/shorts/xkgiWN-o8l4)</sub>
 
-## 2. Vector Sorting Program <a id="VS"><a>
+## 4. Vector Sorting Program <a id="VS"><a>
   
 ## What is it?
   
@@ -48,7 +57,7 @@ When it came to the default cases that needed to be included for each of my stat
 ### Code Snippets
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/InsertionSort.png" style="display: block; margin: auto;" />
   
-## 3. Android Weight Tracking Application <a id="App"><a>
+## 5. Android Weight Tracking Application <a id="App"><a>
   
 ## What is it?
   
@@ -57,21 +66,6 @@ When it came to the default cases that needed to be included for each of my stat
 ## Reflection.
   
 ### Code Snippets/Screenshots
-  
-## 4. Code Review <a id="Code Review"><a>
-	
-Below is the video to my code review that I performed at the beginning of my journey to enhance each of the artifact choices where I provide an in-depth look at each of the programs, how they work, what issues there are, and what enhancements I believe I should make. If the link does not work for the embedded video [here is a link to the video itself on YouTube](https://www.youtube.com/embed/pC1tkp_Lheo).
-  
-  <p align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/pC1tkp_Lheo" title="Justin Aebi Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </p>
-  
-## 5. Professional Self-Assessment <a id="PSA"><a>
-  
-  Example text placeholder.
-  
-  Ignore everything below for now.
-  
 	
 	
 You can use the [editor on GitHub](https://github.com/MishievousCloud/MischievousCloud.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
