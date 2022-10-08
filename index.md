@@ -4,9 +4,9 @@
 1. <a href="#PSA">Professional Self-Assessment<a>
 2. <a href="#Code Review">Code Review<a>
 3. <a href="#Thermostat">Thermostat Prototype<a>
-   - <a href="#ThermostatVideo">App Download<a>
+   - <a href="#ThermostatVideo">Thermostat Video Link<a>
 4. <a href="#VS">Vector Sorting Program<a>
-   - <a href="#VSDownload">App Download<a>
+   - <a href="#VSDownload">Program download<a>
 5. <a href="#App">Android Weight Tracking Application<a>
    - <a href="#AppDownload">App Download<a>
 
@@ -73,7 +73,7 @@ What I learned from this artifact is that when I stumble into a problem in my co
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/InsertionSort.png" style="display: block; margin: auto;" />
 	
 ### Program download <a id="VSDownload"><a>
-[MyWeight.apk](https://mishievouscloud.github.io/MischievousCloud.github.io/VectorSorting.zip)
+[VectorSorting.zip](https://mishievouscloud.github.io/MischievousCloud.github.io/VectorSorting.zip)
 	
 ### Enhancements Made
 ```
