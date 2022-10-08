@@ -6,7 +6,7 @@
 3. <a href="#Thermostat">Thermostat Prototype<a>
 4. <a href="#VS">Vector Sorting Program<a>
 5. <a href="#App">Android Weight Tracking Application<a>
-     		  - <a href="#App">App Download<a>
+   - <a href="#App">App Download<a>
 
 ## 1. Professional Self-Assessment <a id="PSA"><a>
 	
