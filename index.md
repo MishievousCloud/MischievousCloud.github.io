@@ -81,7 +81,7 @@ What I learned from this artifact is that when I stumble into a problem in my co
   
 ## What is it?
 	
-This artifact is an Android Mobile application that tracks a user’s weight data and displays it in a list view for the user within the application. It is designed to allow the user to track their weight over time and provide them with an easy-to-use application that can record and display weight data. It is designed is designed and written from scratch in Android Studio using Java. This artifact was first created in April of 2021 during my CS-360 Mobile Architecture and Programming course, and later improved during my CS-499 Capstone course in October of 2022.
+This artifact is an Android Mobile application that is designed to allow the user to track their weight over time and provide them with an easy-to-use application that can record and display weight data. The user can enter a weights associated with specific days and a goal weight which when reached will congratulate the user upon achieving their goal. Dates and weight data can be updated and deleted from the database. It is designed and written from scratch in Android Studio using Java. This artifact was first created in April of 2021 during my CS-360 Mobile Architecture and Programming course, and later improved during my CS-499 Capstone course in October of 2022.
   
 ## Why did I choose to represent this item?
 	
@@ -93,12 +93,20 @@ The application also had many unused features. There was an SMS messaging system
   
 ## Reflection.
   
-This artifact was one of the most difficult projects I have ever worked on, and it was just as difficult during the enhancements as it was when I first initially developed it. I have learned a lot from the time I have spent on this project. When enhancing this application, I had come across many errors that did not make sense to me and I took the time to really investigate each of the problems and try to understand why they had occurred. One issue with the database was trying to get the data to display per user. I had tried many different approaches but found that foreign key constraints might be the way to display data by only showing data entered by a specific id, however that ended up not working entirely because of how the data was split between databases and how fixing it was not possible with how things structured. This led to me having to alter some design decisions and come up with a solution to the problem. I settled on reworking the database, which I had done a few times to find the best setup and removed the login feature. The other big issue I was having was with the update functionality. It was not working at all before working on enhancing the artifact and after looking into the logs I found an error that was happening and found a solution. The way I was querying the dataset was not correct built and it would still indicate a success despite doing absolutely nothing, but with some time spent on that I was able to get the update feature working. 
+This artifact was one of the more difficult projects I have ever worked on as mobile app development is was new to me. I have learned a lot from the time I have spent on this project. When enhancing this application, I had come across many errors that did not make sense to me and I took the time to really investigate each of the problems and try to understand why they had occurred. One issue with the database was trying to get the data to display per user. I had tried many different approaches but found that foreign key constraints might be the way to display data by only showing data entered by a specific id, however that ended up not working entirely because of how the data was split between databases and how fixing it was not possible with how things structured. This led to me having to alter some design decisions and come up with a solution to the problem. I settled on reworking the database, which I had done a few times to find the best setup and removed the login feature. The other big issue I was having was with the update functionality. It was not working at all before working on enhancing the artifact and after looking into the logs I found an error that was happening and found a solution. The way I was querying the dataset was not correct built and it would still indicate a success despite doing absolutely nothing, but with some time spent on that I was able to get the update feature working. 
 	
-One thing that helped during this development cycle was my process plan for working on this project. I had spent time working on an exact plan of attack for each failure point in the application and listed backup design decisions in case I could not correct it. I would spend as much time as I could getting research done and going through testing iterations to find solutions to my features and as soon as I felt my head was getting heavy from stress and confusion, I would take a break to alleviate this. Before each break I managed to make small progress at identifying why issues were occurring and how I could potentially get them to work, and I would spend the next iteration testing those potential changes and identifying new ones. In the end, throughout this development I had encountered numerous issues and faced many challenges, but from that I learned a lot about how the code functions, and I learned why it was working incorrectly in many cases. The experience from this was by far more valuable in teaching me how to become a better programmer than much of my smaller projects. I would not have had as much success in this project if I had not applied what I had learned from each of my other artifact choices and the challenges I faced in those.
+One thing that helped during this development cycle was my process plan for working on this project. I had spent time working on an exact plan of attack for each failure point in the application and listed backup design decisions in case I could not correct it. I would spend as much time as I could getting research done and going through testing iterations to find solutions to my features and as soon as I felt my head was getting heavy from stress and confusion, I would take a break to alleviate this. Before each break I managed to make small progress at identifying why issues were occurring and how I could potentially get them to work, and I would spend the next iteration testing those potential changes and identifying new ones. In the end, throughout this development I had encountered numerous issues and faced many challenges, but from that I learned a lot about how the code functions, and I learned why it was working incorrectly in many cases. The experience from this was one of the most valuable in teaching me how to become a better programmer. I would not have had as much success in this project if I had not applied what I had learned from each of my other artifact choices and the challenges I faced in those.
 	
 ### Code Snippets
-	
+<img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/HomeScreen.png" style="display: block; margin: auto;" />
+<img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/MainScreen.png" style="display: block; margin: auto;" />
+<img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/CalandarDialog.png" style="display: block; margin: auto;" />
+<img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/UpdateView.png" style="display: block; margin: auto;" />
+<img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/NavDrawer.png" style="display: block; margin: auto;" />
+
+### App download:
+[Link to repository file](gh-pages/MyWeight.apk)
+
 ### Enhancements Made
 ```
 - Fixed database issues.
@@ -108,22 +116,11 @@ One thing that helped during this development cycle was my process plan for work
 - Removed unused code, unreachable code, and redundancies.
 - Addressed security concerns to the database.
 - Fixed and properly implemented the update feature.
-- 
-- working on fixing goal currently befoer due date.
-- reworking comments
-- testing inputs
-- working on goal reached toasts
+- Handled inputs and provided error messages to incorrect update inputs
+- Fixed style issues on all pages regarding buttons, sizing, backgrounds, and overall layout
+- Implemented goal feature with functional accomplishment toast.
+- Reworked comments.
+- Performed vairous testing on all aspects of the app to ensure proper functionality and usability.
+- Added a better naming for project title, file names, and home screen title.
 ```
 	
-	
-You can use the [editor on GitHub](https://github.com/MishievousCloud/MischievousCloud.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MishievousCloud/MischievousCloud.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
