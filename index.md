@@ -98,14 +98,16 @@ This artifact was one of the more difficult projects I have ever worked on as mo
 One thing that helped during this development cycle was my process plan for working on this project. I had spent time working on an exact plan of attack for each failure point in the application and listed backup design decisions in case I could not correct it. I would spend as much time as I could getting research done and going through testing iterations to find solutions to my features and as soon as I felt my head was getting heavy from stress and confusion, I would take a break to alleviate this. Before each break I managed to make small progress at identifying why issues were occurring and how I could potentially get them to work, and I would spend the next iteration testing those potential changes and identifying new ones. In the end, throughout this development I had encountered numerous issues and faced many challenges, but from that I learned a lot about how the code functions, and I learned why it was working incorrectly in many cases. The experience from this was one of the most valuable in teaching me how to become a better programmer. I would not have had as much success in this project if I had not applied what I had learned from each of my other artifact choices and the challenges I faced in those.
 	
 ### Code Snippets
+```
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/HomeScreen.png" style="display: block; margin: auto;" />
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/MainScreen.png" style="display: block; margin: auto;" />
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/CalandarDialog.png" style="display: block; margin: auto;" />
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/UpdateView.png" style="display: block; margin: auto;" />
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/NavDrawer.png" style="display: block; margin: auto;" />
+```
 
 ### App download:
-[Link to repository file](gh-pages/MyWeight.apk)
+[Link to repository file](https://mishievouscloud.github.io/MischievousCloud.github.io/MyWeight.apk)
 
 ### Enhancements Made
 ```
