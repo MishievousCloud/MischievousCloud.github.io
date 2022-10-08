@@ -4,9 +4,11 @@
 1. <a href="#PSA">Professional Self-Assessment<a>
 2. <a href="#Code Review">Code Review<a>
 3. <a href="#Thermostat">Thermostat Prototype<a>
+   - <a href="#ThermostatVideo">App Download<a>
 4. <a href="#VS">Vector Sorting Program<a>
+   - <a href="#VSDownload">App Download<a>
 5. <a href="#App">Android Weight Tracking Application<a>
-   - <a href="#App">App Download<a>
+   - <a href="#AppDownload">App Download<a>
 
 ## 1. Professional Self-Assessment <a id="PSA"><a>
 	
@@ -45,7 +47,9 @@ When it came to the default cases that needed to be included for each of my stat
 - Reworked state machine timings for temperature readings, and input detection.
 - Reworked comments to be more concise and explanatory.
 ```
-<sub>[Thermostat Prototype demonstration video link](https://youtube.com/shorts/xkgiWN-o8l4)</sub>
+	
+### Thermostat Video Link <a id="ThermostatVideo"><a>
+[Thermostat Prototype demonstration](https://youtube.com/shorts/xkgiWN-o8l4)
 
 ## 4. Vector Sorting Program <a id="VS"><a>
   
@@ -67,6 +71,9 @@ What I learned from this artifact is that when I stumble into a problem in my co
   
 ### Code Snippets
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/InsertionSort.png" style="display: block; margin: auto;" />
+	
+### Program download <a id="VSDownload"><a>
+[MyWeight.apk](https://mishievouscloud.github.io/MischievousCloud.github.io/VectorSorting.zip)
 	
 ### Enhancements Made
 ```
