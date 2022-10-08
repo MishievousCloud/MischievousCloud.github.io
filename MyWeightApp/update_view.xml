@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".UpdateView">
+
+
+    <EditText
+        android:id="@+id/updateDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter the Date you wish to update"
+        android:textColorHint="#636363"
+        android:textColor="#636363"
+        android:layout_marginTop="140dp"
+        android:gravity="center"
+        android:padding="15dp"
+        android:inputType="date"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+
+    <EditText
+        android:id="@+id/updateWeight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter the weight you wish to update"
+        android:textColorHint="#636363"
+        android:textColor="#636363"
+        android:inputType="number"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:padding="15dp"/>
+
+    <EditText
+        android:id="@+id/updateNewDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter the new date"
+        android:textColorHint="#636363"
+        android:textColor="#636363"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:padding="15dp"
+        android:inputType="date"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+
+    <EditText
+        android:id="@+id/updateNewWeight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter the new weight"
+        android:textColorHint="#636363"
+        android:textColor="#636363"
+        android:inputType="number"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:padding="15dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/bt_update"
+            android:text="Update"
+            android:textColor="@android:color/white"
+            android:layout_margin="10dp"
+            android:backgroundTint="#41729F"
+            android:layout_gravity="center" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/bt_returnToAddWeights"
+            android:text="View Weights"
+            android:textColor="@android:color/white"
+            android:layout_margin="10dp"
+            android:backgroundTint="#41729F"
+            android:layout_gravity="center"/>
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
