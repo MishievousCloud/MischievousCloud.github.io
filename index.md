@@ -99,7 +99,7 @@ One thing that helped during this development cycle was my process plan for work
 	
 ### Code Snippets
 ```
-[HomeScreen](https://mishievouscloud.github.io/MischievousCloud.github.io/Images/HomeScreen.png)
+![HomeScreen](https://mishievouscloud.github.io/MischievousCloud.github.io/Images/HomeScreen.png)
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/HomeScreen.png" style="display: block; margin: auto;" />
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/MainScreen.png" style="display: block; margin: auto;" />
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/CalandarDialog.png" style="display: block; margin: auto;" />
@@ -108,7 +108,7 @@ One thing that helped during this development cycle was my process plan for work
 ```
 
 ### App download:
-[Link to repository file](https://mishievouscloud.github.io/MischievousCloud.github.io/MyWeight.apk)
+[MyWeight.apk](https://mishievouscloud.github.io/MischievousCloud.github.io/MyWeight.apk)
 
 ### Enhancements Made
 ```
