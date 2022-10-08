@@ -7,7 +7,9 @@
    - <a href="#ThermostatVideo">Thermostat Video Link<a>
 4. <a href="#VS">Vector Sorting Program<a>
    - <a href="#VSDownload">Program download<a>
+   - <a href="VSSnippets">Code Snippets<a>
 5. <a href="#App">Android Weight Tracking Application<a>
+   - <a href="Screenshots">Screenshots<a>
    - <a href="#AppDownload">App Download<a>
 
 ## 1. Professional Self-Assessment <a id="PSA"><a>
@@ -69,8 +71,12 @@ The next big challenge for me was to incorporate a new sorting algorithm. I look
 	
 What I learned from this artifact is that when I stumble into a problem in my code or something that is not working correctly, I need to stop trying to just test my way out of it by trying different things and take a moment to understand why it isn’t working and really investigate the root of the problem. This gave me the time to investigate the error messages I was seeing and research what they are trying to tell me. This was a much more effective way to problem solve. Sometimes breaks are necessary to get out of the rut that the mind can take you into because if I continue down the same path that is leading to errors or failure it only wastes time and energy. Walking away from the code for a bit helped me clear my thoughts and think without distraction about the code and how it should function. Overall, this artifact taught me a lot and how I need to think about my approaches differently to solving problematic code. Sometimes I get caught up into thinking how something is going to be easy for me because I excel at most things, when really, I need to get out of that mindset and truly problem solve by walking through the code and the functionality in my mind. By trying to understand it step by step I can problem solve much more effectively.
   
-### Code Snippets
+### Code Snippets <a id="VSSnippets"><a>
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/InsertionSort.png" style="display: block; margin: auto;" />
+<img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/SelectionSort.png" style="display: block; margin: auto;" />
+<img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/Partition.png" style="display: block; margin: auto;" />
+<img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/QuickSort.png" style="display: block; margin: auto;" />
+	
 	
 ### Program download <a id="VSDownload"><a>
 [VectorSorting.zip](https://mishievouscloud.github.io/MischievousCloud.github.io/VectorSorting.zip)
@@ -105,7 +111,7 @@ This artifact was one of the more difficult projects I have ever worked on as mo
 	
 One thing that helped during this development cycle was my process plan for working on this project. I had spent time working on an exact plan of attack for each failure point in the application and listed backup design decisions in case I could not correct it. I would spend as much time as I could getting research done and going through testing iterations to find solutions to my features and as soon as I felt my head was getting heavy from stress and confusion, I would take a break to alleviate this. Before each break I managed to make small progress at identifying why issues were occurring and how I could potentially get them to work, and I would spend the next iteration testing those potential changes and identifying new ones. In the end, throughout this development I had encountered numerous issues and faced many challenges, but from that I learned a lot about how the code functions, and I learned why it was working incorrectly in many cases. The experience from this was one of the most valuable in teaching me how to become a better programmer. I would not have had as much success in this project if I had not applied what I had learned from each of my other artifact choices and the challenges I faced in those.
 	
-### Screenshots
+### Screenshots <a id="Screenshots"><a>
 	
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/HomeScreen.png" style="display: block; margin: auto;" />
 <img src="https://mishievouscloud.github.io/MischievousCloud.github.io/Images/MainScreen.png" style="display: block; margin: auto;" />
