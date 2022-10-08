@@ -7,9 +7,9 @@
    - <a href="#ThermostatVideo">Thermostat Video Link<a>
 4. <a href="#VS">Vector Sorting Program<a>
    - <a href="#VSDownload">Program download<a>
-   - <a href="VSSnippets">Code Snippets<a>
+   - <a href="#VSSnippets">Code Snippets<a>
 5. <a href="#App">Android Weight Tracking Application<a>
-   - <a href="Screenshots">Screenshots<a>
+   - <a href="#Screenshots">Screenshots<a>
    - <a href="#AppDownload">App Download<a>
 
 ## 1. Professional Self-Assessment <a id="PSA"><a>
