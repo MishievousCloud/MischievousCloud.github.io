@@ -5,9 +5,10 @@
 2. <a href="#Code Review">Code Review<a>
 3. <a href="#Thermostat">Thermostat Prototype<a>
    - <a href="#ThermostatVideo">Thermostat Video Link<a>
+   - <a href="#ThermostatDownload">Thermostat Project Download<a>
 4. <a href="#VS">Vector Sorting Program<a>
-   - <a href="#VSDownload">Program download<a>
    - <a href="#VSSnippets">Code Snippets<a>
+   - <a href="#VSDownload">Program download<a>
 5. <a href="#App">Android Weight Tracking Application<a>
    - <a href="#Screenshots">Screenshots<a>
    - <a href="#AppDownload">App Download<a>
@@ -52,6 +53,9 @@ When it came to the default cases that needed to be included for each of my stat
 	
 ### Thermostat Video Link <a id="ThermostatVideo"><a>
 [Thermostat Prototype demonstration](https://youtube.com/shorts/xkgiWN-o8l4)
+	
+### Thermostat Project Download <a id="ThermostatDownload"><a>
+[Thermostat Prototype Project Files](https://mishievouscloud.github.io/MischievousCloud.github.io/gpiointerrupt_CC3220S_LAUNCHXL_nortos_ccs.zip)
 
 ## 4. Vector Sorting Program <a id="VS"><a>
   
