@@ -56,7 +56,8 @@ When it came to the default cases that needed to be included for each of my stat
 	
 ### Thermostat Project Download <a id="ThermostatDownload"><a>
 [Enhanced Thermostat Prototype Project Files](https://mishievouscloud.github.io/MischievousCloud.github.io/gpiointerrupt_CC3220S_LAUNCHXL_nortos_ccs.zip)
-[Original Thermostat Prototype Project Files]("https://mishievouscloud.github.io/MischievousCloud.github.io/Old Projects/Thermostat_CC3220S_LAUNCHXL_nortos_ccs.zip")
+	
+[Original Thermostat Prototype Project Files](https://mishievouscloud.github.io/MischievousCloud.github.io/OldProjects/Thermostat_CC3220S_LAUNCHXL_nortos_ccs.zip)
 
 ## 4. Vector Sorting Program <a id="VS"><a>
   
@@ -85,7 +86,8 @@ What I learned from this artifact is that when I stumble into a problem in my co
 	
 ### Program download <a id="VSDownload"><a>
 [Enhanced Vector Sorting](https://mishievouscloud.github.io/MischievousCloud.github.io/VectorSorting.zip)
-[Original Vector Sorting](https://mishievouscloud.github.io/MischievousCloud.github.io/Old Projects/VectorSorting.cpp)
+	
+[Original Vector Sorting](https://mishievouscloud.github.io/MischievousCloud.github.io/OldProjects/VectorSorting.cpp)
 	
 ### Enhancements Made
 ```
@@ -128,7 +130,8 @@ One thing that helped during this development cycle was my process plan for work
 
 ### App download: <a id="AppDownload"><a>
 [Enhanced Android Weight Tracking App - MyWeight.apk](https://mishievouscloud.github.io/MischievousCloud.github.io/MyWeight.apk)
-[Original Android Weight Tracking App Project Files](https://mishievouscloud.github.io/MischievousCloud.github.io/WeightTrackingApp_ProjectThree_JustinAebi_BACKUP.zip)
+	
+[Original Android Weight Tracking App Project Files](https://mishievouscloud.github.io/MischievousCloud.github.io/OldProjects/WeightTrackingApp_ProjectThree_JustinAebi_BACKUP.zip)
 
 ### Enhancements Made
 ```
