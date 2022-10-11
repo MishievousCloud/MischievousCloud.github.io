@@ -56,7 +56,7 @@ When it came to the default cases that needed to be included for each of my stat
 	
 ### Thermostat Project Download <a id="ThermostatDownload"><a>
 [Enhanced Thermostat Prototype Project Files](https://mishievouscloud.github.io/MischievousCloud.github.io/gpiointerrupt_CC3220S_LAUNCHXL_nortos_ccs.zip)
-[Original Thermostat Prototype Project Files](https://mishievouscloud.github.io/MischievousCloud.github.io/Old_Projects/Thermostat_CC3220S_LAUNCHXL_nortos_ccs.zip)
+[Original Thermostat Prototype Project Files](Old Projects/Thermostat_CC3220S_LAUNCHXL_nortos_ccs.zip)
 
 ## 4. Vector Sorting Program <a id="VS"><a>
   
