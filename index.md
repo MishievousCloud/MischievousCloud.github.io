@@ -17,7 +17,7 @@
 	
 ## 2. Code Review <a id="Code Review"><a>
 	
-Below is the video to my code review that I performed at the beginning of my journey to enhance each of the artifact choices where I provide an in-depth look at each of the programs, how they work, what issues there are, and what enhancements I believe I should make. If the link does not work for the embedded video [here is a link to the video itself on YouTube](https://www.youtube.com/embed/pC1tkp_Lheo).
+Below is the video to my code review that I performed at the beginning of my journey to enhance each of the artifact choices where I provide an in-depth look at each of the programs, how they work, what issues are present, and what enhancements I should make. If the link does not work for the embedded video [here is a link to the video itself on YouTube](https://www.youtube.com/embed/pC1tkp_Lheo).
   
   <p align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pC1tkp_Lheo" title="Justin Aebi Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -55,7 +55,8 @@ When it came to the default cases that needed to be included for each of my stat
 [Thermostat Prototype demonstration](https://youtube.com/shorts/xkgiWN-o8l4)
 	
 ### Thermostat Project Download <a id="ThermostatDownload"><a>
-[Thermostat Prototype Project Files](https://mishievouscloud.github.io/MischievousCloud.github.io/gpiointerrupt_CC3220S_LAUNCHXL_nortos_ccs.zip)
+[Enhanced Thermostat Prototype Project Files](https://mishievouscloud.github.io/MischievousCloud.github.io/gpiointerrupt_CC3220S_LAUNCHXL_nortos_ccs.zip)
+[Original Thermostat Prototype Project Files](https://mishievouscloud.github.io/MischievousCloud.github.io/Old Projects/Thermostat_CC3220S_LAUNCHXL_nortos_ccs.zip)
 
 ## 4. Vector Sorting Program <a id="VS"><a>
   
@@ -83,7 +84,8 @@ What I learned from this artifact is that when I stumble into a problem in my co
 	
 	
 ### Program download <a id="VSDownload"><a>
-[VectorSorting.zip](https://mishievouscloud.github.io/MischievousCloud.github.io/VectorSorting.zip)
+[Enhanced Vector Sorting](https://mishievouscloud.github.io/MischievousCloud.github.io/VectorSorting.zip)
+[Original Vector Sorting](https://mishievouscloud.github.io/MischievousCloud.github.io/Old Projects/VectorSorting.cpp)
 	
 ### Enhancements Made
 ```
@@ -125,7 +127,8 @@ One thing that helped during this development cycle was my process plan for work
 
 
 ### App download: <a id="AppDownload"><a>
-[MyWeight.apk](https://mishievouscloud.github.io/MischievousCloud.github.io/MyWeight.apk)
+[Enhanced Android Weight Tracking App - MyWeight.apk](https://mishievouscloud.github.io/MischievousCloud.github.io/MyWeight.apk)
+[Original Android Weight Tracking App Project Files](https://mishievouscloud.github.io/MischievousCloud.github.io/WeightTrackingApp_ProjectThree_JustinAebi_BACKUP.zip)
 
 ### Enhancements Made
 ```
