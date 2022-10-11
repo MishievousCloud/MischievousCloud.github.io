@@ -87,7 +87,7 @@ What I learned from this artifact is that when I stumble into a problem in my co
 ### Program download <a id="VSDownload"><a>
 [Enhanced Vector Sorting Project Files](https://mishievouscloud.github.io/MischievousCloud.github.io/VectorSorting.zip)
 	
-[Original VectorSorting.cpp](https://mishievouscloud.github.io/MischievousCloud.github.io/OldProjects/VectorSorting.cpp)
+[Original VectorSorting.cpp file](https://mishievouscloud.github.io/MischievousCloud.github.io/OldProjects/VectorSorting.cpp)
 	
 ### Enhancements Made
 ```
@@ -130,7 +130,8 @@ One thing that helped during this development cycle was my process plan for work
 
 ### App download: <a id="AppDownload"><a>
 [Enhanced Android Weight Tracking App - MyWeight.apk](https://mishievouscloud.github.io/MischievousCloud.github.io/MyWeight.apk)
-You can view the source code in this repository: [MyWeightApp files](https://github.com/MishievousCloud/MischievousCloud.github.io/tree/gh-pages/MyWeightApp)
+	
+You can view the enhanced source code in this repository: [MyWeightApp files](https://github.com/MishievousCloud/MischievousCloud.github.io/tree/gh-pages/MyWeightApp)
 	
 <sub>^^^The project files are too large for GitHub^^^</sub>
 	
