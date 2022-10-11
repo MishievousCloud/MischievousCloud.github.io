@@ -130,7 +130,7 @@ One thing that helped during this development cycle was my process plan for work
 
 ### App download: <a id="AppDownload"><a>
 [Enhanced Android Weight Tracking App - MyWeight.apk](https://mishievouscloud.github.io/MischievousCloud.github.io/MyWeight.apk)
-You can view the source code in this repository.[MyWeightApp](https://mishievouscloud.github.io/MischievousCloud.github.io/MyWeightApp)
+You can view the source code in this repository. [MyWeightApp](https://mishievouscloud.github.io/MischievousCloud.github.io/MyWeightApp/)
 	
 [Original Android Weight Tracking App Project Files](https://mishievouscloud.github.io/MischievousCloud.github.io/OldProjects/WeightTrackingApp_ProjectThree_JustinAebi_BACKUP.zip)
 
